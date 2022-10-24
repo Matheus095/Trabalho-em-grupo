@@ -3,6 +3,7 @@ programa
 	
 	funcao inicio()
 	{
+	//avaliação restaurante
 		
 		inteiro nota
 		caracter cardapio
