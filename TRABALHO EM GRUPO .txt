@@ -1,0 +1,25 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		
+		inteiro nota
+		caracter cardapio
+		caracter ambiente
+		caracter comida
+		inteiro qualidade 
+
+		escreva ("\nCOMO VOCE AVALIA O NOSSO CARDAPIO? (excelente/bom/regular/ruim) ")
+		leia (cardapio)
+		escreva ("\nE COMO FOI A SUA EXPERIENCIA COM O NOSSO AMBIENTE? (excelente/bom/regular/ruim) ")
+		leia (ambiente)
+		escreva ("\nVOCE GOSTOU DA VARIEDADE DE NOSSAS COMIDAS? (sim/não) ")
+		leia (comida)
+		escreva ("\nDE 0 A 10 COMO VOCE AVALIA A QUALIDADE DO NOSSO ATENDIMENTO? ")
+		leia (qualidade)
+
+		
+	}
+	
+}
